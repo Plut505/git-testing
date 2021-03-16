@@ -1,1 +1,1 @@
-const testVal = "-";
+const testVal = "hello world";
